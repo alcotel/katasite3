@@ -11,7 +11,8 @@ img { display: inline-block; vertical-align: top; margin: 0.7em 0; }
 .foot { color: #8A7050; padding: 0.5em; }
 .inner1 { background-color: #F5ECCE; }
 .inner2 { background-color: #E0D8B9; }
-.innerdiv, .hatdiv { width: auto; display: inline-block; text-align: center; }
-.innerdiv { text-align: left; margin: 0.7em; vertical-align: top; }
+.innerdiv, .hatdiv, .history { width: auto; display: inline-block; text-align: center; }
+.innerdiv, .history { text-align: left; margin: 0.7em; vertical-align: top; }
+.history { max-width: 40em; }
 h2 { padding: 6px; }
 
