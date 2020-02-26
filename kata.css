@@ -2,6 +2,9 @@
 * { padding: 0; margin: 0; max-heigth: 91534em; word-wrap: break-word; max-width: 100%; }
 html { font-size: 100%; }
 img { display: inline-block; vertical-align: top; margin: 0.7em 0; }
+.iver { width: 20em; }
+.ihor { height: 20em; }
+.iquad { width: 24em; }
 pre { font-family: inherit; white-space: pre-wrap; }
 .icon { margin: 0.4em 0.2em 0.4em 0.2em; width: 1.6em; height: 1.6em; vertical-align: bottom; }
 .hat, .inner1, .inner2 { display: block; text-align: center; width: 100%; }
