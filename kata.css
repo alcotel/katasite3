@@ -6,7 +6,7 @@ iframe { display: inline-block; vertical-align: top; margin: 0.7em 0; }
 .iver { width: 20em; }
 .ihor { height: 20em; }
 .iquad { width: 24em; }
-.video { width: 24em; height: 20em; }
+.video { width: 24em; height: 18em; }
 pre { font-family: inherit; white-space: pre-wrap; }
 .icon { margin: 0.4em 0.2em 0.4em 0.2em; width: 1.6em; height: 1.6em; vertical-align: bottom; }
 .hat, .inner1, .inner2 { display: block; text-align: center; width: 100%; }
